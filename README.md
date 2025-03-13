@@ -4,8 +4,8 @@
 
 ## ✨ About Me  
 - 🎓 A **3rd-year Electronics & Communication Engineering (ECE) student** at **NIT Delhi**, passionate about technology and innovation.  
-- 💻 Passionate **Software & Web Developer** with expertise in **Full Stack Development, System Design, and VLSI**  
-- ⚡ **Tech Enthusiast** skilled in **Java, JavaScript, MERN Stack, Backend Development & Scalable Web Solutions**  
+- 💻 Passionate **Software & Web Developer** with expertise in **Full Stack Development, System Design, and VLSI.**  
+- ⚡ **Tech Enthusiast** skilled in **Java, JavaScript, MERN Stack, Backend Development & Scalable Web Solutions.**  
 - 🏆 **Achievements:**  
   - 🏅 **Gold Medalist** in **NITD Premier League**  
   - 🥈 **Silver Medalist** in **Zeal Cricket 2025**  
@@ -13,8 +13,8 @@
   - 📹 **GlideMeet** – A MERN-based video conferencing platform  
   - 📈 **TradeNova** – A stock trading web application  
   - 🏡 **WanderLust** – A vacation rental booking platform  
-- 🌱 **Currently Learning:** Advanced **System Design, Scalable Web Architectures, and Cloud Computing**    
-- 📜 **Certified in:** Java DSA, MERN Stack, and Software Development  
+- 🌱 **Currently Learning:** Advanced **System Design, Scalable Web Architectures, and Cloud Computing.**    
+- 📜 **Certified in:** Java DSA, MERN Stack, and Software Development. 
 - 🎖️ Certifications: 
   - [Career Essentials in Software Development - Microsoft & LinkedIn](https://www.linkedin.com/learning/certificates/d6b049241856cf43a516651bbe21ef73e12fdc0c2661484d233e8697f2ce969c)
   - [Programming Foundations: Beyond the Fundamentals - LinkedIn](https://www.linkedin.com/learning/certificates/8e702b4076b9c571976a7c50bad6ccda32e3a9d0befa465b6ac03bdf959a0f45)
