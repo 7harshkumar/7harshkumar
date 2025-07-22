@@ -11,8 +11,8 @@
   - 🥈 **Silver Medalist** in **Zeal Cricket 2025**  
 - 🔭 **Projects:**  
   - 📹 **GlideMeet** – A MERN-based video conferencing platform  
-  - 📈 **TradeNova** – A stock trading web application  
-  - 🏡 **WanderLust** – A vacation rental booking platform  
+  - 📈 **Zerodha** –  Next-Gen Stock Trading Solution,  
+  - 🏡 **Chat GPT** – AI Chatbot Using OpenAI GPT-4o Mini 
 - 🌱 **Currently Learning:** Advanced **System Design, Scalable Web Architectures, and Cloud Computing.**    
 - 📜 **Certified in:** Java DSA, MERN Stack, and Software Development. 
 - 🎖️ Certifications: 
