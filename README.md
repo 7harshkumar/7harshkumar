@@ -3,7 +3,7 @@
 
 
 ## ✨ About Me  
-- 🎓 A **3rd-year Electronics & Communication Engineering (ECE) student** at **NIT Delhi**, passionate about technology and innovation.  
+- 🎓 A Final Year Electronics and Communication Engineering Undergraduate at National Institute of Technology Delhi.  
 - 💻 Passionate **Software & Web Developer** with expertise in **Full Stack Development, System Design, and VLSI.**  
 - ⚡ **Tech Enthusiast** skilled in **Java, JavaScript, MERN Stack, Backend Development & Scalable Web Solutions.**  
 - 🏆 **Achievements:**  
@@ -61,7 +61,7 @@
 |------------|------|
 | 🚀 GlideMeet | ⭐ |
 | 💹 TradeNova | A |
-| 🌍 WanderLust | B |
+| 🌍 Chat GPT | A |
 | 🎮 Gaming-Website | B |
 | 🎮 Breakout Game | B |
 ---
