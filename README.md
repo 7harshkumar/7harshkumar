@@ -1,7 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A Passionate Software & Web Developer | Full Stack Innovator | Tech Enthusiast </h3>
 
-
 ## ✨ About Me  
 - 🎓 A Final Year Electronics and Communication Engineering Undergraduate at National Institute of Technology Delhi.  
 - 💻 Passionate **Software & Web Developer** with expertise in **Full Stack Development, System Design, and VLSI.**  
@@ -11,7 +10,7 @@
   - 🥈 **Silver Medalist** in **Zeal Cricket 2025**  
 - 🔭 **Projects:**  
   - 📹 **GlideMeet** – A MERN-based video conferencing platform  
-  - 📈 **Zerodha** –  Next-Gen Stock Trading Solution,  
+  - 📈 **Zerodha** –  Next-Gen Stock Trading Solution  
   - 🏡 **Chat GPT** – AI Chatbot Using OpenAI GPT-4o Mini 
 - 🌱 **Currently Learning:** Advanced **System Design, Scalable Web Architectures, and Cloud Computing.**    
 - 📜 **Certified in:** Java DSA, MERN Stack, and Software Development. 
@@ -22,9 +21,10 @@
 ---
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-7725472a0)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7harshkumar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/7harshkumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-7725472a0)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7harshkumar)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/7harshkumar/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://harsh-portfolio-tu2g.onrender.com/)
 
 ---
 
@@ -64,7 +64,9 @@
 | 🌍 Chat GPT | A |
 | 🎮 Gaming-Website | B |
 | 🎮 Breakout Game | B |
+
 ---
+
 ## 📈 Contribution Activity  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=7harshkumar&theme=react-dark)  
 
@@ -74,4 +76,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 ⭐ **Star some repositories if you like my work!**
